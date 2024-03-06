@@ -3,7 +3,6 @@
 // When the switch's state is zero, the 7-segment display should cycle through the digits 0 
 // through 9 in ascending order. Conversely, when the switch's state is one, the 7-segment 
 // display should cycle through the digits 9 through 0 in descending order.
-
 #include "mbed.h"
 
 // 7-segment display
