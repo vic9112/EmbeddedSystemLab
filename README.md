@@ -1,5 +1,5 @@
 # Embedded_System_Lab
-NTHU Course - Embedded System Lab
+NTHU Course EE2405 - Embedded System Lab
 
 **Goal**
 - Learn to use a micro-controller in an embedded system
