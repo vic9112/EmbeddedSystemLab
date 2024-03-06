@@ -11,7 +11,9 @@ int main()
     for (int i = 0; i < 10; i++)
     {
         led = !led;
-        printf("%1.5f\n", 3.14159); // If we didn't override the parameter printf_lib with the value "std", it can't successfully print out
+        printf("%1.5f\n", 3.14159); 
+        // If we didn't override the parameter printf_lib with the value "std", 
+        // it may run into a situation that it cannot successfully print out the floating point
         ThisThread::sleep_for(BLINKING_RATE);
     }
 }
