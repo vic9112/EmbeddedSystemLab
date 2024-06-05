@@ -1,6 +1,10 @@
 # Embedding System Final Project - BBcar
 
+## Objects
+- BBcar
 ![BBcar](https://github.com/vic9112/EmbeddedSystemLab/assets/137171415/bd58d66b-79e5-4d94-9b37-d1b17fa48c71)
+- Map
+![螢幕擷取畫面 2024-06-05 160252](https://github.com/vic9112/EmbeddedSystemLab/assets/137171415/29279b16-d1bd-4bad-a8e0-a7c6bba170c4)
 
 ## Setup
 
