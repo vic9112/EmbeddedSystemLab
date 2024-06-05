@@ -1,4 +1,6 @@
-# Embedding System Final Project
+# Embedding System Final Project - BBcar
+
+![BBcar](https://github.com/vic9112/EmbeddedSystemLab/assets/137171415/bd58d66b-79e5-4d94-9b37-d1b17fa48c71)
 
 ## Setup
 
