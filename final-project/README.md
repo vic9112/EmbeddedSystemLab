@@ -55,3 +55,9 @@ Copy the following files to the Mbed folder(the same folder as main.cpp) then ru
 6. `gyro.h`
 7. `.mbedignore`
 8. `ble.py`
+
+## Suggestion
+
+- After including bbcar libraries into our project, change the ramping factor in `/bbcar/parallax_servo.cpp`:
+- ![bbcar](https://github.com/vic9112/EmbeddedSystemLab/assets/137171415/31c1c7b7-cc12-4164-8d92-69687e30d80b)
+
